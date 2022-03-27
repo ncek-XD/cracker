@@ -12,7 +12,7 @@ Perhatikan gambar berikut!
 
 Jika semua sudah terinstall kalian tinggal jalankan script dengan ketikan perintah di bawah ini :
 ````bash
-cd $HOME/bff-2 
+cd $HOME/cracker
 python run.py 
 ````
 Untuk update script / mendapatkan update terbaru. Ketikan perintah di bawah ini :
